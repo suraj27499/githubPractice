@@ -1,3 +1,3 @@
 # githubPractice
-Althaaf ka github practic
+Althaaf ka github practice
 Hi , I am Althaaf Shaik.
