@@ -1,2 +1,3 @@
 # githubPractice
-Althaaf ka github practice
+Althaaf ka github practic
+Hi , I am Althaaf Shaik.
